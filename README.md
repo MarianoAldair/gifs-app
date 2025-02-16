@@ -1,27 +1,21 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
+Este proyecto fue desarrollado con [Angular CLI](https://github.com/angular/angular-cli) en su versión 16.2.16. en febrero de 2025 (Córdoba, Argentina) con el fin de demostrar los conocimientos adquiridos al finalizar las primeras ocho secciones de la formación profesional [Angular de cero a experto](https://www.udemy.com/course/angular-fernando-herrera/), dictada por [Fernando Herrera](https://fernando-herrera.com). Los temas y los conocimientos son acumulativos, por lo que le invito a explorar mis proyectos anteriores visitando mi [repositorio de Github](https://github.com/MarianoAldair) donde podrá visualizar los contenidos abarcados en las secciones anteriores. 
 
-## Development server
+## Temas involucrados
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+A continuación, se listan los principales temas desarrollados en estas secciones:
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- GifsApp:
+  - Creación de file system, módulos y componentes personalizados
+  - Referencia local y [@ViewChild](https://v16.angular.io/api/core/ViewChild)
+  - Persistencia de data en Local Storage
+  - Introducción a peticiones HTTP y [HttpClientModule](https://v16.angular.io/api/common/http/HttpClientModule)
+  - Solicitudes a [API de Giphy](https://giphy.com)
+  - [Postman](https://www.postman.com)
+  - Servicios
+  - Manejo de api keys
+  - Introducción a Observables
+  - Interfaces y tipado veloz con herramienta [quicktype](https://app.quicktype.io)
+  - Introducción al ciclo de vida en Angular (@NgOnInit)
+  - Inclusión de paquete [Animate.css](https://animate.style)
